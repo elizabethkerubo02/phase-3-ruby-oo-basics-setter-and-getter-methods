@@ -20,3 +20,6 @@ class Person
     end
 
 end
+liz = Person.new
+liz.job = "software engineer"
+puts liz.job
